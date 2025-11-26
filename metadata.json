@@ -1,0 +1,5 @@
+{
+  "name": "Booklet Review System",
+  "description": "High-speed autonomous evaluation engine for bulk student answer booklets.",
+  "requestFramePermissions": []
+}
