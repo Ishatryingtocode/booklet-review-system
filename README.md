@@ -64,6 +64,7 @@ An intelligent, AI-powered platform that automates the evaluation of student ans
 npm run dev      # Start development server
 npm run build    # Create production build
 npm run preview  # Preview production build
+```
 
 ## 🤝 Contributing
 
