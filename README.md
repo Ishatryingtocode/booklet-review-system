@@ -39,6 +39,8 @@ An intelligent, AI-powered platform that automates the evaluation of student ans
 
 </div>
 
+<div align="center">
+
 ### 1) Input Phase
 <img src="screenshots/input-interface.jpeg" width="600" alt="Input Interface">
 *Upload questions and 43 student booklets for processing*
@@ -66,6 +68,9 @@ An intelligent, AI-powered platform that automates the evaluation of student ans
 ### 7) Student Evaluation Details
 <img src="screenshots/student-evaluation-details.jpeg" width="600" alt="Student Evaluation">
 *Individual student assessment with constructive feedback*
+
+
+</div>
 
 ### Real Performance Metrics
 - ✅ **43 student booklets** processed successfully
