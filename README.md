@@ -1,20 +1,84 @@
+# 📚 Booklet Review System
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+![Booklet Review System](https://img.shields.io/badge/Status-Fully%20Functional-brightgreen)
+![AI Powered](https://img.shields.io/badge/AI-Gemini%20Powered-blue)
+![Students Processed](https://img.shields.io/badge/Processed-43%20Booklets-success)
+
+**High-speed autonomous evaluation engine for bulk student answer booklets**
+
 </div>
 
-# Run and deploy your AI Studio app
+## 🚀 Overview
 
-This contains everything you need to run your app locally.
+An intelligent, AI-powered platform that automates the evaluation of student answer booklets using Google Gemini AI. Transforms weeks of manual grading into minutes of automated processing with intelligent partial credit scoring.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1g20qs3ZaKif2HbiC6obKF7k0plaCs1li
+## ✨ Features
 
-## Run Locally
+- **🤖 AI-Powered Grading** - Google Gemini AI with contextual understanding
+- **📁 Bulk Processing** - Handle 50+ student booklets simultaneously  
+- **🎯 Partial Credit System** - Prevents false zeroes, rewards methodology
+- **📊 Detailed Analytics** - Parameter-based scoring with CSV export
+- **🖼️ Multi-Format Support** - PDF, JPG, PNG with OCR capabilities
+- **⚡ Real-time Progress** - Live tracking during evaluation
 
-**Prerequisites:**  Node.js
+## 🛠 Tech Stack
 
+- **Frontend:** React 19, TypeScript, Tailwind CSS, Vite
+- **AI:** Google Gemini AI, REST APIs, JSON Schema
+- **Tools:** Git, npm, Lucide React
+- **File Processing:** PDF, JPG, PNG support
+
+## 🏃‍♂️ Quick Start
+
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+
+2. Set the `GEMINI_API_KEY` in `.env.local` to your Gemini API key
+
 3. Run the app:
    `npm run dev`
+
+## 📋 How It Works
+
+1. **Input Questions** - Text or file upload (PDF/images)
+2. **AI Analysis** - Generates answer keys with evaluation parameters  
+3. **Upload Booklets** - Bulk student submissions processing
+4. **AI Grading** - Intelligent scoring with partial credit
+5. **Results & Export** - Detailed analytics and CSV reports
+
+
+## 🎯 Use Cases
+
+- **🏫 Educational Institutions** - Automated exam grading
+- **📚 Online Courses** - Scalable assignment evaluation  
+- **🎓 Examination Centers** - Bulk answer sheet processing
+- **👨‍🏫 Teachers** - Reduced workload with consistent scoring
+
+## 🔧 Available Scripts
+
+```bash
+npm run dev      # Start development server
+npm run build    # Create production build
+npm run preview  # Preview production build
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit pull requests or open issues.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+**Built by Isha Dave**
+
+*Transforming education through AI-powered automation*
+
+</div>
