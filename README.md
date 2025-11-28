@@ -67,16 +67,11 @@ An intelligent, AI-powered platform that automates the evaluation of student ans
 <img src="screenshots/student-evaluation-details.jpeg" width="600" alt="Student Evaluation">
 *Individual student assessment with constructive feedback*
 
-<div align="center">
-
-
 ### Real Performance Metrics
 - ✅ **43 student booklets** processed successfully
 - ✅ **6 evaluation parameters** per question  
 - ✅ **74% faster** than manual grading
 - ✅ **Professional scoring** with detailed feedback
-
-</div>
 
 ## 🏃‍♂️ Quick Start
 
